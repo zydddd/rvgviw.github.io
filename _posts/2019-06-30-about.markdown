@@ -2,7 +2,7 @@
 layout: post
 title:  "About"
 description: An example post which shows code rendering.
-# date:   2023-02-23 21:03:36 +0530
+date:   2023-02-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
 <img src="{{ site.baseurl }}/assets/textures/red.jpg">
