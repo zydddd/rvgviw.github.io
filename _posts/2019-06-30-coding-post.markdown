@@ -6,7 +6,7 @@ date:   2023-02-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
 <img src="{{ site.baseurl }}/assets/textures/red.jpg">
-
+<p>
 Localization and mapping for indoor wheeled robots have extensive applications, such as floor sweeping
 and food delivery. In this paper, we present the RVG-VIW benchmark, providing sequences with the combination of an
 RGB-D camera, an IMU and a wheel odometer (VIW), for the evaluation of SLAM and 3D reconstruction algorithms.
@@ -34,7 +34,7 @@ were captured along corridors with straight lines, dynamic
 pedestrians, reflective mirros and a upslope.
 6) floor13: Two longer sequences (floor13 1, floor13 2)
 were recorded in the scene, containing rich linear motion
-
+</p>
 
 ```javascript
 const express = require('express')
