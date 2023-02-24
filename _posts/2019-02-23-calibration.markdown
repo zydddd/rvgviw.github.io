@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Calibration"
-date:   2023-02-23 21:03:36 +0530
+# date:   2023-02-23 21:03:36 +0530
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-Check out the [calibration.yaml][jekyll-docs] for more info.
+Our benchmark provides accurate intrinsic and extrinsic parameters calibration and time synchronization for sensors and the ground truth 3D scanner, so as to facilitate the direct use of algorithm evaluation. All parameters are reported in [calibration.yaml][jekyll-docs].
+
 [jekyll-docs]: {{ site.baseurl }}/assets/files/calibration.yaml
 
 
