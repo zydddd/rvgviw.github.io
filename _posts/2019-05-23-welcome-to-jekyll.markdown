@@ -9,4 +9,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 Check out the [Calibration.yaml][jekyll-docs] for more info.
 
-[jekyll-docs]: url({{ site.baseurl }}/assets/files/caliibration.yaml)
+[jekyll-docs]: {{ site.baseurl }}/assets/files/caliibration.yaml
