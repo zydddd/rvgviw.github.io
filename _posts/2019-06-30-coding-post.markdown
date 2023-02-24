@@ -5,7 +5,8 @@ description: An example post which shows code rendering.
 date:   2023-02-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-<img src="'{{ site.baseurl }}/assets/textures/red.jpg'">
+<img src="{{ site.baseurl }}/assets/textures/red.jpg">
+
 Localization and mapping for indoor wheeled robots have extensive applications, such as floor sweeping
 and food delivery. In this paper, we present the RVG-VIW benchmark, providing sequences with the combination of an
 RGB-D camera, an IMU and a wheel odometer (VIW), for the evaluation of SLAM and 3D reconstruction algorithms.
