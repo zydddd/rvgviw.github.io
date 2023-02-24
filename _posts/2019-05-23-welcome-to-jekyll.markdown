@@ -7,6 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ![texture theme preview]('{{ site.baseurl }}/assets/files/1673420104.953972.png')
 
-Check out the [Calibration.yaml][jekyll-docs] for more info.
+Check out the [calibration.yaml][jekyll-docs] for more info.
 
 [jekyll-docs]: {{ site.baseurl }}/assets/files/calibration.yaml

@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: "The RVG-VIW Benchmark: Evaluating SLAM and 3D Reconstruction for Indoor Ground Robots"
-  tagline: Developer. Designer
+  title: The RVG-VIW Benchmark
+  tagline: Evaluating SLAM and 3D Reconstruction for Indoor Ground Robots
   date_format: "%b %-d, %Y"
   style: black
   showNav: false

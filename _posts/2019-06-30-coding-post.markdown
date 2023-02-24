@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About"
-description:
+description: the RVG-VIW benchmark
 date:   2023-02-24 21:03:36 +0530
 categories: Calibration Videos
 ---
