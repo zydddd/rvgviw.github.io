@@ -1,18 +1,11 @@
 ---
 layout: post
-title:  "About"
-description: the RVG-VIW benchmark
-date:   2023-02-24 21:03:36 +0530
-categories: Calibration Videos
+title:  "Coding Post"
+description: An example post which shows code rendering.
+date:   2019-05-23 21:03:36 +0530
+categories: Javascript NodeJS
 ---
-Localization and mapping for indoor wheeled robots have extensive applications, such as floor sweeping
-and food delivery. In this paper, we present the RVG-VIW benchmark, providing sequences with the combination of an
-RGB-D camera, an IMU and a wheel odometer (VIW), for the evaluation of SLAM and 3D reconstruction algorithms.
-In contrast to others, the dataset focuses on indoor ground robots in a low camera view. With the ground truth trajectories
-and 3D point cloud models supported by an accurate external 3D scanner, our dataset is capable of evaluating SLAM and
-3D reconstruction in a global coordinate system. It contains thirteen challenging sequences from six different scenes, where
-the ground truth is available for the whole sequence in large scenes. Moreover, our dataset comes with the intrinsic and
-extrinsic parameters of sensors to support a fair comparison between algorithms.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
 ```javascript
 const express = require('express')
@@ -25,14 +18,7 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
- Localization and mapping for indoor wheeled robots have extensive applications, such as floor sweeping
-and food delivery. In this paper, we present the RVG-VIW benchmark, providing sequences with the combination of an
-RGB-D camera, an IMU and a wheel odometer (VIW), for the evaluation of SLAM and 3D reconstruction algorithms.
-In contrast to others, the dataset focuses on indoor ground robots in a low camera view. With the ground truth trajectories
-and 3D point cloud models supported by an accurate external 3D scanner, our dataset is capable of evaluating SLAM and
-3D reconstruction in a global coordinate system. It contains thirteen challenging sequences from six different scenes, where
-the ground truth is available for the whole sequence in large scenes. Moreover, our dataset comes with the intrinsic and
-extrinsic parameters of sensors to support a fair comparison between algorithms.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam qui voluptatem excepturi nemo similique atque sapiente aperiam, dolorum deleniti! Esse quam perferendis temporibus nemo at molestias necessitatibus tenetur cupiditate sapiente. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil et voluptatibus non labore officiis assumenda, distinctio perspiciatis blanditiis nesciunt rerum molestias impedit fugiat nulla qui libero minima quasi! Libero, iure.
 
 ```scss
 body {
@@ -43,11 +29,4 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 ```
- Localization and mapping for indoor wheeled robots have extensive applications, such as floor sweeping
-and food delivery. In this paper, we present the RVG-VIW benchmark, providing sequences with the combination of an
-RGB-D camera, an IMU and a wheel odometer (VIW), for the evaluation of SLAM and 3D reconstruction algorithms.
-In contrast to others, the dataset focuses on indoor ground robots in a low camera view. With the ground truth trajectories
-and 3D point cloud models supported by an accurate external 3D scanner, our dataset is capable of evaluating SLAM and
-3D reconstruction in a global coordinate system. It contains thirteen challenging sequences from six different scenes, where
-the ground truth is available for the whole sequence in large scenes. Moreover, our dataset comes with the intrinsic and
-extrinsic parameters of sensors to support a fair comparison between algorithms.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam rerum, ratione impedit necessitatibus facere soluta odio repellat asperiores neque! Sunt iusto quia suscipit amet inventore eum, vel molestiae reiciendis alias.
