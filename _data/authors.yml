@@ -1,18 +1,20 @@
-# Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+rohanchandra: # author-id
+  name: "Rohan Chandra"
+  avatar: "https://avatars2.githubusercontent.com/u/816965?s=460&v=4"
+  url: "https://github.com/rohanchandra"
+sylhare:
+  name: Sylhare
+  avatar: "https://avatars3.githubusercontent.com/u/20642750?s=460&v=4"
+  url: "https://github.com/sylhare"
+mmistakes:
+  name: "Michael Rose"
+  avatar: "https://avatars3.githubusercontent.com/u/1376749?s=460&v=4"
+  url: "https://github.com/mmistakes"
+mhagnumdw:
+  name: Mhagnumdw
+  avatar: "https://avatars2.githubusercontent.com/u/17688846?s=460&v=4"
+  url:
+unknown:
+  name: Unknown
+  avatar:
+  url:

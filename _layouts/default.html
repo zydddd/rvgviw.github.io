@@ -1,31 +1,16 @@
----
-layout: compress
----
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
+<!DOCTYPE html>
+<!--
+    Type on Strap jekyll theme v2.4.4
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  {% include default/head.liquid %}
   <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+    {% include default/navbar.liquid %}
+    <div class="content">
+      {{ content }}
     </div>
-
-    {% include scripts.html %}
-
+    {% include default/footer.liquid %}
   </body>
 </html>
