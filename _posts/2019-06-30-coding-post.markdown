@@ -15,27 +15,7 @@ and 3D point cloud models supported by an accurate external 3D scanner, our data
 3D reconstruction in a global coordinate system. It contains thirteen challenging sequences from six different scenes, where
 the ground truth is available for the whole sequence in large scenes. Moreover, our dataset comes with the intrinsic and
 extrinsic parameters of sensors to support a fair comparison between algorithms.
-
-1) office: One short sequence (office 1) and two long
-sequences (office 2, office 3) were captured inside a small
-office, where tables, chairs and office supplies are static.
-2) floor14: One short sequence (floor14 1) and two long
-sequences (floor14 2, floor14 3) were captured on the open
-office floor of an office building, including illumination
-changes, linear motion, dynamic pedestrians.
-3) downstairs: A downstairs sequence (14-13-12) was
-collected by a handheld device where the wheel odometer
-data were missing.
-4) two floors: A long sequence (14-13-14) was recorded
-by moving on the 14th floors, down stairs (handheld) and
-moving on the 13th floors.
-5) floor3: Three sequences (floor3 1, floor3 2, floor3 3)
-were captured along corridors with straight lines, dynamic
-pedestrians, reflective mirros and a upslope.
-6) floor13: Two longer sequences (floor13 1, floor13 2)
-were recorded in the scene, containing rich linear motion
 </p>
-
 ```javascript
 const express = require('express')
 const app = express()
